@@ -1,5 +1,6 @@
 # Deep Learning (AI-S4)
 
+[//]: # (HUGenerateStudentVersion=True)
 
 (c) 2024 Hogeschool Utrecht  
 Auteurs: David Isaacs Paternostro en Tijmen Muller
@@ -12,45 +13,44 @@ templates, oefeningen en (code)voorbeelden.
 
 Als er nog geen [conda environment](
 https://docs.conda.io/) genaamd `ai-s4` is, creëer deze dan door in de Anaconda
-Prompt (`conda`) naar de directory van deze repository te gaan. De omgeving die
-je moet installeren hangt af van of je gebruik kan en wil maken van je GPU om
-je neurale netwerken op te trainen. Als je een configuratie hebt met een 
-grafische kaart van NVidia is dit wel aan te raden, omdat het veel sneller gaat
-dan trainen op je CPU. Je kan hier controleren of je GPU wordt ondersteund: 
-https://developer.nvidia.com/cuda-gpus.
+Prompt `conda` naar de directory van deze repository te gaan. Creëer vervolgens de omgeving met het volgende commando:
 
-* Als je geen ondersteunde grafische kaart hebt of je wil hier geen gebruik van
-maken, gebruik dan `conda env create -f ai-s4_conda_cpu.yaml`.
-* Als je wél gebruik wil maken van je GPU, gebruik dan
-`conda env create -f ai-s4_conda_gpu.yaml`.
+```bash
+conda env create -f ai-s4_conda.yaml
+```
 
-Voor meer informatie over (handmatig) installeren, zie onder.
+Vervolgens moet je nog de juiste versie van PyTorch handmatig installeren, zie hiervoor de [instructies](#installatie-pytorch) hieronder.
 
 ### Interpreter instellen in VSCode
 
 - Klik rechtsonder in de GUI waar je 'Python' ziet staan. Er komt midden bovenin je
-   scherm een dropdown menu, kies daar: `ai-s4-g|cpu`.
+   scherm een dropdown menu, kies daar: `ai-s4`.
 
 ### Interpreter instellen in PyCharm
 
 1. Ga naar File >> Settings >> Project: _projectnaam_ >> Project Interpreter en dan:
-   - kies `ai-s4-g|cpu` in het dropdown menu; of
+   - kies `ai-s4` in het dropdown menu; of
    - ga naar Add Interpreter >> Add Local Interpreter >> Conda Environment >>
-      Use Existing Environment >> selecteer `ai-s4-g|cpu` in het dropdown menu.
+      Use Existing Environment >> selecteer `ai-s4` in het dropdown menu.
 2. Klik rechtsonder in de GUI waar je 'Python' ziet staan.
 
 
 ## Installatie PyTorch 
 
-Als je gebruik wil maken van de mogelijkheid om neurale netwerken te trainen op je NVidia GPU, 
-installeer dan PyTorch met CUDA 12.8 (zie https://pytorch.org/get-started/locally/). Je kan hier
-controleren of je GPU wordt ondersteund: https://developer.nvidia.com/cuda-gpus.
+Voor het maken en trainen van neurale netwerken maken we in dit semester gebruik van de library [PyTorch](https://pytorch.org/). 
+
+De versie van PyTorch die
+je moet installeren hangt af van of je gebruik kan en wil maken van je GPU om
+je neurale netwerken op te trainen. Als je een configuratie hebt met een 
+grafische kaart van NVidia is dit wel aan te raden, omdat het veel sneller gaat
+dan trainen op je CPU. Je kan hier controleren of je GPU wordt ondersteund: 
+https://developer.nvidia.com/cuda-gpus. Als je videokaart hebt die wordt ondersteund, dan moet je de CUDA Toolkit installeren om daar gebruik van te maken.
 
 ### CPU
 
-Je installeert PyTorch (zonder GPU support) als volgt:
+De installatie van PyTorch zonder GPU support (en dus zonder CUDA) gaat als volgt:
 
-```
+```bash
 pip3 install torch torchvision torchaudio torchmetrics --index-url https://download.pytorch.org/whl/cpu
 ```
 
@@ -69,9 +69,9 @@ False
 
 ### GPU (met CUDA)
 
-Je installeert PyTorch met CUDA support als volgt:
+Je installeert PyTorch met GPU support als volgt. Let op dat je hierbij de versie van CUDA selecteert die bij je videokaart past (hieronder wordt CUDA v12.8 geinstalleerd).
 
-```
+```bash
 pip3 install torch torchvision torchaudio torchmetrics --index-url https://download.pytorch.org/whl/cu128
 ```
 
