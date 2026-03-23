@@ -3,10 +3,10 @@
 
 [comment]: # (Instructie: vul onderstaande velden in. 'Peilmoment' is peilmoment 1, peilmoment 2 of beoordelingsmoment.)
 
-* **Studentnummer**:
-* **Naam**:
-* **Peilmoment**:
-* **Datum**:
+* **Studentnummer**: 1833628
+* **Naam**: Mathijs de Jong
+* **Peilmoment**: 1
+* **Datum**: 23/03/2026
 
 
 
@@ -17,6 +17,10 @@
 #### Peilmoment 1
 
 [comment]: # (Zelfevaluatie peilmoment 1)
+
+De afgelopen periode heb ik met gefocust op het maken en inleveren van alle opdrachten voor de deadlines. Dit is gelukt. Ik heb meer focus gelegd op het gebruiken van descriptieve variabelenamen en comments in mijn code, om deze makkeijker te begrijpen te maken. Ik heb met mijn groep contact gemaakt met de opdrachtgevers van het project, een een eerste interview gedaan. We hebben hiermee een goede start voor het project.
+
+Ik ben deze periode weinig op school geweest, daar wil ik de komende periode op letten. Ik wil bij elke meeting met mijn projectgroep aanwezig zijn, zodat zij niet komen te leiden onder mijn afwezigheid. Ik blijf ook doorgaan met het schrijven van duidelijke, goed gedocumenteerde code. 
 
 ---
 
@@ -36,16 +40,6 @@
 
 [comment]: # (Instructie: benoem per leeruitkomst de portfolio-items die deze leeruitkomst geheel of gedeeltelijk aantonen en die je afgelopen periode hebt opgeleverd. Let op: een portfolio-item telt alleen mee als deze aan de eisen voldoet, zoals beschreven op Canvas. Kort samengevat is een portfolio-item een product ingeleverd op Canvas, waarbij feedback is opgehaald, verwerkt en die geaccordeerd is door een docent. Geef bij elk portfolio-item: 1. de naam; 2. een link naar de inlevering op Canvas; 3. een link naar code in een repository, indien van toepassing; 4. een korte toelichting. Een toelichting is doorgaans *niet* nodig als je een voorgedefinieerd portfolio-item op niveau hebt voltooid. Scheid de peilmomenten met een horizontale streep.)
 
-### Voorbeeld
-
-[comment]: # (Verwijder dit voorbeeld bij inlevering.)
-
-> De student leest dit voorbeeld en past dit toe bij elke leeruitkomst hieronder.
-
-#### Peilmoment 0
-
-* [VB-I: Voorbeeld](https://canvas.hu.nl/courses/44855/assignments/327461/submissions/367387)
-    * Dit portfolio-item bestaat uit een notebook, waarin ik de resultaten van ons eerste model op de dataset heb geanalyseerd. Mijn werk is gereviewd door twee teamleden en de feedback heb ik al verwerkt in deze versie van het notebook. Een review van de opdrachtgever volgt nog.
 
 
 ### 1 - Onderzoekend vermogen
@@ -161,6 +155,9 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
+* [LA-II Dimensionaliteitsreductie](https://canvas.hu.nl/courses/50035/assignments/396454/submissions/249041)
+    * [link naar repo](https://github.com/GitMathijs/la-ii-dimensionaliteitsreductie-GitMathijs)
+
 ---
 
 #### Peilmoment 2
@@ -181,6 +178,17 @@
 #### Peilmoment 1
 
 [comment]: # (Portfolio-items peilmoment 1)
+
+* [LA-I Vectoren](https://canvas.hu.nl/courses/50035/assignments/396455/submissions/249041)
+
+* [LA-II Dimensionaliteitsreductie](https://canvas.hu.nl/courses/50035/assignments/396454/submissions/249041)
+    * [link naar repo](https://github.com/GitMathijs/la-ii-dimensionaliteitsreductie-GitMathijs)
+
+* [NN-I Perceptron netwerk](https://canvas.hu.nl/courses/50035/assignments/396466/submissions/249041)
+    * [link naar repo](https://github.com/AI-S4-2026/nn-i-perceptron-netwerk-GitMathijs)
+
+* [NN-II Neuraal netwerk](https://canvas.hu.nl/courses/50035/assignments/396465/submissions/249041)
+    * [link naar repo](https://github.com/AI-S4-2026/nn-ii-neuraal-netwerk-GitMathijs)
 
 ---
 
@@ -203,6 +211,9 @@
 
 [comment]: # (Portfolio-items peilmoment 1)
 
+* [NN-II Neuraal netwerk](https://canvas.hu.nl/courses/50035/assignments/396465/submissions/249041)
+    * [link naar repo](https://github.com/AI-S4-2026/nn-ii-neuraal-netwerk-GitMathijs)
+
 ---
 
 #### Peilmoment 2
@@ -223,6 +234,9 @@
 #### Peilmoment 1
 
 [comment]: # (Portfolio-items peilmoment 1)
+
+* [NN-II Neuraal netwerk](https://canvas.hu.nl/courses/50035/assignments/396465/submissions/249041)
+    * [link naar repo](https://github.com/AI-S4-2026/nn-ii-neuraal-netwerk-GitMathijs)
 
 ---
 
@@ -265,6 +279,8 @@
 > Attitudes: onderzoekend, zelfsturend, kritisch, grondig en abstract analytisch
 
 [comment]: # (Beschrijving attitudes peilmoment 1)
+
+Grondig: Ik ben de afgelopen periode grondiger te werk gegaan met mijn mijn code. Ik heb er voor gezorgd dat mijn code leesbaarder is door gebruik te maken van descriptieve variabelenamen en meer comments. Ik heb al mijn deadlines op tijd ingeleverd, en er geen gemist. 
 
 ---
 
