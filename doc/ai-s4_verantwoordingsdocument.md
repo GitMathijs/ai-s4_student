@@ -5,8 +5,8 @@
 
 * **Studentnummer**: 1833628
 * **Naam**: Mathijs de Jong
-* **Peilmoment**: 1
-* **Datum**: 23/03/2026
+* **Peilmoment**: 2
+* **Datum**: 05/05/2026
 
 
 
@@ -26,7 +26,11 @@ Ik ben deze periode weinig op school geweest, daar wil ik de komende periode op 
 
 #### Peilmoment 2
 
-[comment]: # (Zelfevaluatie peilmoment 2)
+De afgelopen periode is het helaas niet gelukt om meer op school te zijn. Ik was aanwezig bij een aantal belangrijke projectlessen en meetings met de opdrachtgevers van het project, maar de theorielessen heb ik niet bijgewoond. Daarnaast ben ik ook in de knoop gekomen met een paar inleveropdrachten. De AlexNet opdracht heb ik niet gemaakt (dit is besproken tijdens mijn 1e peilmoment), en bij de RL-I opdracht is het niet gelukt om het 2e deel af te krijgen. Dit zal ik moeten inhalen tijdens de verbeterweken.
+
+Ik heb in de afgelopen periode een goede bijdrage geleverd aan het PvA door hoofdstukken 1 t/m 8 en hoofdstuk 14 te schrijven. Daarnaast heb ik ook het 'motion detection' stukje geschreven bij het onderzoek naar mogelijke oplossingen. Er was een miscommunicatie binnen het team, dus heb ik de verantwoordelijkheid genomen door wat extra werk op me te nemen.
+
+De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnlijk zal ik vaak op school zijn tijdens de projectweken, omdat we als groep besloten hebben dat het makkelijker is om samen te werken op locatie. Ook wil ik blijven werken aan mijn communicatie binnen het team.
 
 ---
 
@@ -162,7 +166,8 @@ Ik ben deze periode weinig op school geweest, daar wil ik de komende periode op 
 
 #### Peilmoment 2
 
-[comment]: # (Portfolio-items peilmoment 2)
+* [NLP-I Word Embedding](https://canvas.hu.nl/courses/50035/assignments/396456/submissions/249041)
+    * [link naar repo](https://github.com/AI-S4-2026/nlp-i-word-embedding-GitMathijs-2)
 
 ---
 
@@ -177,6 +182,8 @@ Ik ben deze periode weinig op school geweest, daar wil ik de komende periode op 
 
 #### Peilmoment 1
 
+---
+
 [comment]: # (Portfolio-items peilmoment 1)
 
 * [LA-I Vectoren](https://canvas.hu.nl/courses/50035/assignments/396455/submissions/249041)
@@ -190,11 +197,13 @@ Ik ben deze periode weinig op school geweest, daar wil ik de komende periode op 
 * [NN-II Neuraal netwerk](https://canvas.hu.nl/courses/50035/assignments/396465/submissions/249041)
     * [link naar repo](https://github.com/AI-S4-2026/nn-ii-neuraal-netwerk-GitMathijs)
 
----
-
 #### Peilmoment 2
 
-[comment]: # (Portfolio-items peilmoment 2)
+* [IMG-I Seam Carving](https://canvas.hu.nl/courses/50035/assignments/396451/submissions/249041)
+    * [link naar repo](https://github.com/AI-S4-2026/img-i-seam-carving-GitMathijs)
+
+* [NLP-I Word Embedding](https://canvas.hu.nl/courses/50035/assignments/396456/submissions/249041)
+    * [link naar repo](https://github.com/AI-S4-2026/nlp-i-word-embedding-GitMathijs-2)
 
 ---
 
@@ -284,7 +293,7 @@ Grondig: Ik ben de afgelopen periode grondiger te werk gegaan met mijn mijn code
 
 ---
 
-[comment]: # (Beschrijving attitudes peilmoment 2)
+Zelfsturend: Ik ben de afgelopen periode niet veel op school geweest. Daardoor moest ik zelfstandig leren en opdrachten maken. Zo heb ik zelf planningen gemaakt en doelen gesteld. Wanneer ik een bepaald onderwerp op de slides niet begreep, heb ik YouTube video's en LLM's gebruikt om zo tot een beter begrip te komen van de stof.
 
 ---
 
