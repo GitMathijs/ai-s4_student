@@ -58,7 +58,7 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Peilmoment 2
 
-[comment]: # (Portfolio-items peilmoment 2)
+[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
@@ -79,7 +79,9 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Peilmoment 2
 
-[comment]: # (Portfolio-items peilmoment 2)
+[Probleemdefinitie en data-analyse](https://canvas.hu.nl/courses/50035/assignments/396487/submissions/249041)
+
+[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
@@ -100,7 +102,9 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Peilmoment 2
 
-[comment]: # (Portfolio-items peilmoment 2)
+[Probleemdefinitie en data-analyse](https://canvas.hu.nl/courses/50035/assignments/396487/submissions/249041)
+
+[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
@@ -121,7 +125,9 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Peilmoment 2
 
-[comment]: # (Portfolio-items peilmoment 2)
+[Probleemdefinitie en data-analyse](https://canvas.hu.nl/courses/50035/assignments/396487/submissions/249041)
+
+[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
@@ -142,7 +148,7 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Peilmoment 2
 
-[comment]: # (Portfolio-items peilmoment 2)
+[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
@@ -168,6 +174,8 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 * [NLP-I Word Embedding](https://canvas.hu.nl/courses/50035/assignments/396456/submissions/249041)
     * [link naar repo](https://github.com/AI-S4-2026/nlp-i-word-embedding-GitMathijs-2)
+
+[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
@@ -205,6 +213,8 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 * [NLP-I Word Embedding](https://canvas.hu.nl/courses/50035/assignments/396456/submissions/249041)
     * [link naar repo](https://github.com/AI-S4-2026/nlp-i-word-embedding-GitMathijs-2)
 
+[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
+
 ---
 
 #### Beoordelingsmoment
@@ -227,7 +237,7 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Peilmoment 2
 
-[comment]: # (Portfolio-items peilmoment 2)
+[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
