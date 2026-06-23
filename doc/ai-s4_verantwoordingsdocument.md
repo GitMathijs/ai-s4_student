@@ -5,8 +5,8 @@
 
 * **Studentnummer**: 1833628
 * **Naam**: Mathijs de Jong
-* **Peilmoment**: 2
-* **Datum**: 05/05/2026
+* **Peilmoment**: Beoordelingsmoment
+* **Datum**: 23/06/2026
 
 
 
