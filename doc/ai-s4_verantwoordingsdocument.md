@@ -36,7 +36,11 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Beoordelingsmoment
 
-[comment]: # (Zelfevaluatie beoordelingsmoment)
+De afgelopen periode heb ik met mijn team aan het project gewerkt, en hebben we een resultaat geleverd waar we allemaal tevreden mee zijn. Ik heb geen deadlines gemist, en heb mijn best gedaan om goed te communiceren met mijn team. De communicatie liep nog niet perfect, maar was wel een stuk beter dan in de periode hiervoor. Ik ben trots op de week waarin ik 103 foto's handmatig gesegmenteerd heb; dit was erg saai, breindodend werk, en vereiste goede discipline/planning om het op tijd af te krijgen. Dit is gelukt.
+
+Mijn aanwezigheid is nog steeds het grootste obstakel. Ik ben bij meer lessen/sessies geweest dan in de vorige periode, maar helaas niet bij allemaal. Ik heb in deze gevallen wel duidelijk naar mijn teamgenoten gecommuniceerd, en de docent een berichtje gestuurd toen ik niet bij een verplichte les aanwezig kon zijn.
+
+Ik wil blijven werken aan mijn aanwezigheid, en daarnaast ook aan mijn persoonlijke organiserend vermogen. Alhoewel ik geen deadlines gemist heb, zie ik nog wel ruimte voor verbeteren in het plannen van schoolwerk. Zo heb ik bij sommige deadlines minder tijd overgehouden dan ik zou willen, waardoor ik geen uitgebreide check op mijn eigen werk kon doen.
 
 
 
@@ -58,13 +62,16 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Peilmoment 2
 
-[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
+* [Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
 #### Beoordelingsmoment
 
-[comment]: # (Portfolio-items beoordelingsmoment)
+* [Onderzoeks- & ontwerpdocument](https://canvas.hu.nl/courses/50035/assignments/396484/submissions/249041)
+    * Ik vind dat deze opdracht meetelt aan onderzoekend vermogen, omdat we alle 3 individueel onderzoek gedaan hebben naar een computervisie techniek.
+
+* [Adviesrapport](https://canvas.hu.nl/courses/50035/assignments/396486/submissions/249041)
 
 
 ### 2 - Organiserend vermogen
@@ -79,15 +86,26 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Peilmoment 2
 
-[Probleemdefinitie en data-analyse](https://canvas.hu.nl/courses/50035/assignments/396487/submissions/249041)
+* [Probleemdefinitie en data-analyse](https://canvas.hu.nl/courses/50035/assignments/396487/submissions/249041)
 
-[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
+* [Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
 #### Beoordelingsmoment
 
-[comment]: # (Portfolio-items beoordelingsmoment)
+* [Onderzoeks- & ontwerpdocument](https://canvas.hu.nl/courses/50035/assignments/396484/submissions/249041)
+    * Ik vind dat deze opdracht meetelt aan organiserend vermogen, omdat we als team afgesproken hadden om individueel onderzoek te doen, en dan samen te beslissen wat de beste oplossing was. Deze afspraak maken, een gezamelijke deadline maken voor het onderzoek, en samen beslissen over de beste oplossing vind ik passen bij organiserend vermogen.
+
+* [Baseline model](https://canvas.hu.nl/courses/50035/assignments/396494/submissions/249041)
+
+* [Model versie 2](https://canvas.hu.nl/courses/50035/assignments/396491/submissions/249041)
+
+* [Model versie 3](https://canvas.hu.nl/courses/50035/assignments/396490/submissions/249041)
+
+* [Model versie 4](https://canvas.hu.nl/courses/50035/assignments/396489/submissions/249041)
+
+* [Proof-of-concept](https://canvas.hu.nl/courses/50035/assignments/396488/submissions/249041)
 
 
 ### 3 - Interactief vermogen
@@ -102,15 +120,28 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Peilmoment 2
 
-[Probleemdefinitie en data-analyse](https://canvas.hu.nl/courses/50035/assignments/396487/submissions/249041)
+* [Probleemdefinitie en data-analyse](https://canvas.hu.nl/courses/50035/assignments/396487/submissions/249041)
 
-[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
+* [Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
 #### Beoordelingsmoment
 
-[comment]: # (Portfolio-items beoordelingsmoment)
+* [Onderzoeks- & ontwerpdocument](https://canvas.hu.nl/courses/50035/assignments/396484/submissions/249041)
+    * Ik vind dat deze opdracht ook meetelt aan interactief vermogen, omdat we als groep elkaar individuele taken gegeven hebben, deze opgepikt hebben en samen overlegd hebben over de beste oplossing.
+
+* [Baseline model](https://canvas.hu.nl/courses/50035/assignments/396494/submissions/249041)
+
+* [Model versie 2](https://canvas.hu.nl/courses/50035/assignments/396491/submissions/249041)
+
+* [Model versie 3](https://canvas.hu.nl/courses/50035/assignments/396490/submissions/249041)
+
+* [Model versie 4](https://canvas.hu.nl/courses/50035/assignments/396489/submissions/249041)
+
+* [Proof-of-concept](https://canvas.hu.nl/courses/50035/assignments/396488/submissions/249041)
+
+* [Adviesrapport](https://canvas.hu.nl/courses/50035/assignments/396486/submissions/249041)
 
 
 ### 4 - (Zelf)lerend vermogen
@@ -125,15 +156,23 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Peilmoment 2
 
-[Probleemdefinitie en data-analyse](https://canvas.hu.nl/courses/50035/assignments/396487/submissions/249041)
+* [Probleemdefinitie en data-analyse](https://canvas.hu.nl/courses/50035/assignments/396487/submissions/249041)
 
-[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
+* [Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
 #### Beoordelingsmoment
 
-[comment]: # (Portfolio-items beoordelingsmoment)
+* [Baseline model](https://canvas.hu.nl/courses/50035/assignments/396494/submissions/249041)
+
+* [Model versie 2](https://canvas.hu.nl/courses/50035/assignments/396491/submissions/249041)
+
+* [Model versie 3](https://canvas.hu.nl/courses/50035/assignments/396490/submissions/249041)
+
+* [Model versie 4](https://canvas.hu.nl/courses/50035/assignments/396489/submissions/249041)
+
+* [Proof-of-concept](https://canvas.hu.nl/courses/50035/assignments/396488/submissions/249041)
 
 
 ### 5 - Probleemanalyse
@@ -148,13 +187,16 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Peilmoment 2
 
-[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
+* [Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
+
+* [Probleemdefinitie en data-analyse](https://canvas.hu.nl/courses/50035/assignments/396487/submissions/249041)
+    * Ik vind dat deze opdracht meetelt aan de leeruitkomst probleemanalyse, omdat je het probleem moet onderzoeken, en analyseren en begrijpen voordat je het in een document kunt beschrijven.
 
 ---
 
 #### Beoordelingsmoment
 
-[comment]: # (Portfolio-items beoordelingsmoment)
+* [Adviesrapport](https://canvas.hu.nl/courses/50035/assignments/396486/submissions/249041)
 
 
 ### 6 - Data
@@ -175,13 +217,17 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 * [NLP-I Word Embedding](https://canvas.hu.nl/courses/50035/assignments/396456/submissions/249041)
     * [link naar repo](https://github.com/AI-S4-2026/nlp-i-word-embedding-GitMathijs-2)
 
-[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
+* [Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
 #### Beoordelingsmoment
 
-[comment]: # (Portfolio-items beoordelingsmoment)
+* AI-toets: ik heb een mooi cijfer voor de toets gehaald (zover ik me herinner had ik 12.5/14 punten).
+
+* [Proof-of-concept](https://canvas.hu.nl/courses/50035/assignments/396488/submissions/249041)
+
+* [Adviesrapport](https://canvas.hu.nl/courses/50035/assignments/396486/submissions/249041)
 
 
 ### 7 - Technieken
@@ -213,13 +259,20 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 * [NLP-I Word Embedding](https://canvas.hu.nl/courses/50035/assignments/396456/submissions/249041)
     * [link naar repo](https://github.com/AI-S4-2026/nlp-i-word-embedding-GitMathijs-2)
 
-[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
+* [Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
 #### Beoordelingsmoment
 
-[comment]: # (Portfolio-items beoordelingsmoment)
+* AI-toets: ik heb een mooi cijfer voor de toets gehaald (zover ik me herinner had ik 12.5/14 punten).
+
+* [Onderzoeks- & ontwerpdocument](https://canvas.hu.nl/courses/50035/assignments/396484/submissions/249041)
+    * Ik vind dat deze opdracht ook meetelt aan technieken, omdat we individueel potentieel geschikte computervisie technieken onderzocht hebben, en bepaald hebben of deze technieken toepasbaar waren op ons probleem.
+
+* [Proof-of-concept](https://canvas.hu.nl/courses/50035/assignments/396488/submissions/249041)
+
+* [Adviesrapport](https://canvas.hu.nl/courses/50035/assignments/396486/submissions/249041)
 
 
 ### 8 - Applicatie
@@ -237,13 +290,18 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Peilmoment 2
 
-[Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
+* [Plan van aanpak](https://canvas.hu.nl/courses/50035/assignments/396483/submissions/249041)
 
 ---
 
 #### Beoordelingsmoment
 
-[comment]: # (Portfolio-items beoordelingsmoment)
+* [RL-II Deep Q-Network](https://canvas.hu.nl/courses/50035/assignments/396502/submissions/249041)
+    * [link naar repo](https://github.com/AI-S4-2026/rl-ii-deep-q-network-GitMathijs)
+
+* [Proof-of-concept](https://canvas.hu.nl/courses/50035/assignments/396488/submissions/249041)
+
+* [Adviesrapport](https://canvas.hu.nl/courses/50035/assignments/396486/submissions/249041)
 
 
 ### 9 - Resultaten
@@ -267,7 +325,14 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Beoordelingsmoment
 
-[comment]: # (Portfolio-items beoordelingsmoment)
+* [RL-II Deep Q-Network](https://canvas.hu.nl/courses/50035/assignments/396502/submissions/249041)
+    * [link naar repo](https://github.com/AI-S4-2026/rl-ii-deep-q-network-GitMathijs)
+
+* AI-toets: ik heb een mooi cijfer voor de toets gehaald (zover ik me herinner had ik 12.5/14 punten).
+
+* [Proof-of-concept](https://canvas.hu.nl/courses/50035/assignments/396488/submissions/249041)
+
+* [Adviesrapport](https://canvas.hu.nl/courses/50035/assignments/396486/submissions/249041)
 
 
 ### 10 - Deployment & optimalisatie
@@ -288,7 +353,7 @@ De komende periode wil ik voornamelijk aan mijn aanwezigheid werken. Waarschijnl
 
 #### Beoordelingsmoment
 
-[comment]: # (Portfolio-items beoordelingsmoment)
+* [Adviesrapport](https://canvas.hu.nl/courses/50035/assignments/396486/submissions/249041)
 
 
 ## Attitudes
@@ -305,6 +370,10 @@ Grondig: Ik ben de afgelopen periode grondiger te werk gegaan met mijn mijn code
 
 Zelfsturend: Ik ben de afgelopen periode niet veel op school geweest. Daardoor moest ik zelfstandig leren en opdrachten maken. Zo heb ik zelf planningen gemaakt en doelen gesteld. Wanneer ik een bepaald onderwerp op de slides niet begreep, heb ik YouTube video's en LLM's gebruikt om zo tot een beter begrip te komen van de stof.
 
+Onderzoekend: Ik deze periode heb ik voor het project vooronderzoek naar een mogelijke oplossing gedaan (Motion dectection). Daarnaast heb ik op internet gezocht naar vergelijkbare casussen van ons probleem, om zo ideeen voor een oplossing te vergaren. Ik heb mijn baseline model (SAM3) herhaaldelijk getest en getweaked, om zo een optimale instelling te vinden.
+
 ---
 
-[comment]: # (Beschrijving attitudes beoordelingsmoment)
+Kritisch: Ik ben kritisch geweest op mijn eigen werk. Zo heb ik mijn taalstijl in het adviesrapport aangepast om professioneler over te komen. Ik heb mijn code regelmatig getest om te checken of het naar behoren werkte, en heb verbeteringen gemaakt waar nodig. Daarnaast heb ik aangegeven aan mijn teamgenoten dat ik het niet eens was met de manier waarop ze hun modellen scoorden, en heb ik ze een beter alternatief gegeven.
+
+Abstract analytisch: Voor het schrijven van het adviesrapport heb ik verschillende documenten geanalyseerd, en hier conclusies uit getrokken / op voortgeborduurd. Tijdens de gesprekken met de opdrachtgevers heb ik goed opgelet, zodat belangrijke opmerkingen/vragen/wensen van de opdrachtgever mij niet ontgingen.
